@@ -1,5 +1,5 @@
 ---
-title: Tübitak Bilim Olimpiyatı için En Önemli Kaynak - Çıkmış Sorular
+title: Tübitak Projesi Nasıl Hazırlanır
 author: admin
 date: 2020-05-08
 categories: [proje]
