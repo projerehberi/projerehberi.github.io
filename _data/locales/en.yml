@@ -10,21 +10,21 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: Home
-  categories: Categories
-  tags: Tags
-  archives: Archives
-  about: About
+  home: Anasayfa
+  categories: Kategoriler
+  tags: Taglar
+  archives: Arşiv
+  about: Hakkımızda
 
 # the text displayed in the search bar & search results
 search:
-  hint: search
-  cancel: Cancel
-  no_results: Oops! No results found.
+  hint: ara
+  cancel: iptal
+  no_results: böyle bir sayfa bulamadım
 
 panel:
   lastmod: Recently Updated
-  trending_tags: Trending Tags
+  trending_tags: Trend Kelime Bulutu
   toc: Contents
 
 copyright:
