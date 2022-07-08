@@ -11,6 +11,8 @@ Her yıl düzenlenen Intel ISEF (International Science and Engineering Fair) Ulu
 
 Society for Science & Public adlı kuruluş tarafından 1950 yılında başlatılan Ulusal Bilim Fuarı (National Science Fair), daha sonra 1958 yılında Japonya, Kanada ve Almanya´nın da katılmasıyla büyüyerek uluslararası bir formata dönüştü. Günümüzde dünya çapında binlerce öğrenci her yıl kendi ülkelerinde yerel kurumların ve okulların desteklediği bilim yarışmalarında mücadele ediyor. Bu yarışmalarda en iyi dereceleri alan öğrenciler de Intel ISEF´e katılma şansını elde ediyor.
 
+![isef resim](https://www.societyforscience.org/wp-content/uploads/2019/10/ExhibitHall.jpg)
+
 Bu anlamda yarışma aslında bir çeşit dünya finali niteliği taşıyor. Dünyanın her tarafından genç dâhileri bir araya getiren Intel ISEF, projelerini bilim adamlarına sunma ve 5 milyon dolar değerinde ödül ve burs olanakları için yarışma şansı vererek gençlerin başarılarını uluslararası platformda sergilemesine olanak tanıyor. 2002 yılından bu yana Türk öğrenciler de ISEF´te bilimsel projelerle yarışıyor, Türkiye´nin adını bilim dünyasına duyuruyorlar.
 
 Not Etkinlik hakkında daha detaylı bilgi kendi sitelerinde bulunabilir. httpsstudent.societyforscience.orgintel-isef
